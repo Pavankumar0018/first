@@ -19,7 +19,7 @@ function App() {
         <h1 className="">RAM RAM</h1>
         <p>{groom} weds {bride}</p>
         <p>vicky weds {bride}</p>
-        <h1>This is Home Page</h1>
+        <h1>This is Home Page.</h1>
     
         <Link href="/About">About</Link>
         <Link href="/Product">Product</Link>
